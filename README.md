@@ -22,6 +22,3 @@ SkillHarbor is an online educational platform designed to provide free education
 
 ## How to Use
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/skillharbor.git
