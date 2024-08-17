@@ -19,6 +19,3 @@ SkillHarbor is an online educational platform designed to provide free education
 - **Accessibility:** Provide free educational resources to remote school pupils.
 - **Quality Education:** Ensure high-quality content that meets educational standards.
 - **Engagement:** Create an engaging learning environment that motivates students to learn.
-
-## How to Use
-
